@@ -1,0 +1,6 @@
+[package]
+name = "paths-for-referring-to-an-item-in-the-module-tree"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
