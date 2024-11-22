@@ -1,0 +1,6 @@
+[package]
+name = "defining-modules-to-control-scope-and-privacy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
