@@ -1,0 +1,6 @@
+[package]
+name = "storing-lists-of-values-with-vectors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
